@@ -1,2 +1,5 @@
+The kernel version:
+    3.10.0-327.el7.x86_64 of centos7.2
+
 usage:
     mount -t pikaqfs none /mnt
